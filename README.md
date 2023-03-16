@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziiirozone
 - 👀 I’m interested in everything linked to science
-- 🌱 I’m currently learning programmation with python and physics
+- 🌱 I’m currently learning programmation in rust and taking classes in math & physics
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me, do not
 
